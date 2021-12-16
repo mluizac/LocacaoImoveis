@@ -1,1 +1,1 @@
-CRUD básico com Spring Rest service.
+CRUD básico com Spring Rest Service.
